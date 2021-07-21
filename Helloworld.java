@@ -7,7 +7,7 @@ class Helloworld
                         System.out.println("Hello World");
                         try
                         {
-                                Thread.sleep(10000);
+                                Thread.sleep(100000);
                         }
                         catch(Exceptione)
                         {
